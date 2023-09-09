@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Hassan\Documents\Projects_Python\MyWebsite\Geospatial_Django"
+VIRTUAL_ENV="C:\Users\Hassan\Documents\Projects_Python\MyWebsite\GeoSpatial_Projects\Geospatial_Django"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
